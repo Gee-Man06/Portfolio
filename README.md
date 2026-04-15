@@ -1,6 +1,9 @@
-#  Snothando
+#  Mangaliso Snothando
 
-📧 241177049@mycput.ac.za | 🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso) | 📞 083 765 9532 | 📍 Woodstock, Cape Town
+📧 241177049@mycput.ac.za 
+🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso) 
+📞 083 765 9532 
+📍 Woodstock, Cape Town
 
 ---
 
@@ -29,7 +32,8 @@ Cape Peninsula University of Technology (2024–2026)
 
 ### 🌐 Web Technologies
 - HTML  
-- CSS  
+- CSS
+- Laravel  
 
 ### 🗄️ Databases
 - SQL (Intermediate)

@@ -65,6 +65,7 @@ Individual Project | Deployed Educational Web Platform
 ---
 
 ### 🛒 Mzansi ThriftShop (2025 – Present)
+https://github.com/Gee-mangaliso/Thriftshop-e-commerce-website-edited-?tab=readme-ov-file
 
 Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
 

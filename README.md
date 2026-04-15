@@ -30,7 +30,6 @@ Cape Peninsula University of Technology (2024–2026)
 ### 🌐 Web Technologies
 - HTML  
 - CSS
-- Laravel
 
 ### Frameworks
 - Laravel
@@ -41,7 +40,7 @@ Cape Peninsula University of Technology (2024–2026)
 - Design Patterns 
 - Layered Architecture
    
-### 🧪 Testing & Quality Assurance
+### 🧪 Testing 
 - Unit Testing (JUnit)
 - Test-Driven Development (TDD)
 
@@ -90,21 +89,3 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 - Created structured guides to support backend integration  
 
 ---
-
-## 🎥 Mock Video Interview
-
-[![Watch Demo](https://img.youtube.com/vi/T-iVxsW9EfM/0.jpg)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
-
----
-
-## 📞 References
-
-### 👤 Siyabonga Gxula  
-🏢 Zwelakhe Senior Secondary School  
-📧 gxusiyabonga@gmail.com  
-📞 078 766 5384  
-
-### 👤 Lusanda Mbenguzana  
-🏢 Zwelakhe Senior Secondary School  
-📧 lusandambenguzana1@gmail.com  
-📞 078 072 3715

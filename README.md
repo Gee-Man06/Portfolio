@@ -53,6 +53,7 @@ Cape Peninsula University of Technology (2024–2026)
 ## 🚀 Projects
 
 ### 📘 ExamReady Hub (2026 – Present)
+https://github.com/Gee-mangaliso/examreadyhub
 
 Individual Project | Deployed Educational Web Platform  
 

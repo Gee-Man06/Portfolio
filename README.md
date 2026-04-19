@@ -4,7 +4,7 @@
 
 ---
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](./cv.pdf)   [![Download Mock Video](https://img.shields.io/badge/Watch-Mock%20Video-green?style=for-the-badge)](./mock-video.mp4)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](./cv.pdf)   [![Download Mock Video](https://img.shields.io/badge/Watch-Mock%20Video-green?style=for-the-badge)](https://img.youtube.com/vi/T-iVxsW9EfM/0.jpg)](https://www.youtube.com/watch?v=T-iVxsW9EfM))
 
 
 

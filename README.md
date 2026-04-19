@@ -95,3 +95,10 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 - Created structured guides to support backend integration  
 
 ---
+
+### 📘 Course Enrollment System
+Group Project | Student Course Enrollment System
+
+- A Java-based course management system developed 2nd year groop project, allowing administrators to manage students and modules, while         students can  enroll in available courses
+- I was responsible and mainly focused in the UI and the backend logic
+- Designed database queries for module registration and handling validation

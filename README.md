@@ -23,6 +23,7 @@ https://github.com/Gee-Man06
 ---
 
 ####  🌐Published GitHub pages
+https://gee-man06.github.io/Portfolio/
 
 
 

@@ -80,28 +80,18 @@ Individual Project | Deployed Educational Web Platform
 - Built secure user registration system  
 - Implemented dynamic content for quizzes, exam papers, and memorandums  
 - Used AI-assisted development for system design and content generation  
-- Designed responsive frontend and scalable backend-ready architecture  
+- Designed responsive frontend and scalable backend-ready architecture
 
----
-
-### 🛒 Mzansi ThriftShop (2025 – Present)
-https://github.com/Gee-mangaliso/Thriftshop-e-commerce-website-edited-?tab=readme-ov-file
-
-Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
-
-- Led technical documentation for backend and frontend workflows  
-- Initially worked with dummy API data while frontend was completed  
-- Currently improving database integration  
-- Created structured guides to support backend integration
-
-  <table>
+  ## Screenshots
+   <table>
   <tr>
     <td align="center"><b>Student Tab</b></td>
     <td align="center"><b>Admin Dashboard</b></td>
     <td align="center"><b>Teacher Tab</b></td>
   </tr>
   <tr>
-    <td><img src="src="https://github.com/user-attachments/assets/7661437c-e497-4aa9-bc6e-8da0a7333b71"/>
+    <td>
+       <img src="https://github.com/user-attachments/assets/7661437c-e497-4aa9-bc6e-8da0a7333b71""/>
        <img src="https://github.com/user-attachments/assets/31e246f8-3f49-4072-bc15-e8b4562847b0""/>
        <img src="https://github.com/user-attachments/assets/1bea6441-59b4-4e72-bdfd-b61f083875c5"/>
        <img ssrc="https://github.com/user-attachments/assets/af17b99f-7f86-4be9-b95d-fd18b2f0e717""/>
@@ -118,6 +108,20 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
   </tr>
 </table>
 
+
+---
+
+### 🛒 Mzansi ThriftShop (2025 – Present)
+https://github.com/Gee-mangaliso/Thriftshop-e-commerce-website-edited-?tab=readme-ov-file
+
+Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
+
+- Led technical documentation for backend and frontend workflows  
+- Initially worked with dummy API data while frontend was completed  
+- Currently improving database integration  
+- Created structured guides to support backend integration
+
+ 
 
 ---
 

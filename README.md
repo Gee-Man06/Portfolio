@@ -107,24 +107,16 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
        <img ssrc="https://github.com/user-attachments/assets/af17b99f-7f86-4be9-b95d-fd18b2f0e717""/>
     </td>
      
-    <td><img src="https://github.com/user-attachments/assets/27b7fb49-5531-47f0-aa73-3cdf3ac831d7" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/25580d30-f959-44ab-b87a-106ddd408ead" width="300"/></td>
+    <td>
+       <img src="https://github.com/user-attachments/assets/fa960d8f-1265-438a-bf27-9713cb9b1b42"/>
+       <img src="https://github.com/user-attachments/assets/9e29e9f1-43c8-44da-8ec5-c021b5e42474"/>
+    </td>
+    <td>
+       <img src="https://github.com/user-attachments/assets/0879629c-e2ca-41af-9061-069adbfda64a"/>
+       <img src="https://github.com/user-attachments/assets/37c905ea-831c-42d9-a492-4643d503d397"/>
+    </td>
   </tr>
 </table>
-
- 
-<img width="1641" height="906" alt="image" src="https://github.com/user-attachments/assets/fa960d8f-1265-438a-bf27-9713cb9b1b42" />
-<img width="1632" height="901" alt="image" src="https://github.com/user-attachments/assets/9e29e9f1-43c8-44da-8ec5-c021b5e42474" />
-
-<img width="1685" height="859" alt="image" src="https://github.com/user-attachments/assets/0879629c-e2ca-41af-9061-069adbfda64a" />
-<img width="1682" height="845" alt="image" src="https://github.com/user-attachments/assets/37c905ea-831c-42d9-a492-4643d503d397" />
-
-
-
-
-
-
-
 
 
 ---

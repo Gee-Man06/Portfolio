@@ -4,7 +4,8 @@
 
 ---
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](./cv.pdf)   [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](<img width="2560" height="2900" alt="Mangaliso_Snothando_CV (5)" src="https://github.com/user-attachments/assets/5fbca233-02cb-4ac4-88e5-360d6b9c9f1d" />
+)   [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
 
 

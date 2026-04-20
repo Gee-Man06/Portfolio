@@ -4,7 +4,7 @@
 
 ---
 
-[[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://github.com/Gee-Man06/Portfolio/raw/main/Mangaliso_Snothando(CV).pdf)   [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://github.com/Gee-Man06/Portfolio/raw/main/Mangaliso_Snothando(CV).pdf)   [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
 
 
@@ -82,7 +82,7 @@ Individual Project | Deployed Educational Web Platform
 - Used AI-assisted development for system design and content generation  
 - Designed responsive frontend and scalable backend-ready architecture
 
-  ## Screenshots
+  #### Screenshots
    <table>
   <tr>
     <td align="center"><b>Student Tab</b></td>
@@ -122,7 +122,7 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 - Currently improving database integration  
 - Created structured guides to support backend integration
 
-  ## Screenshots
+  #### Screenshots
 ---
 
  
@@ -138,7 +138,7 @@ https://github.com/Gee-Man06/StudentSystem
 - I was responsible and mainly focused in the UI and the backend logic
 - Designed database queries for module registration and handling validation
 
-## Screenshots
+#### Screenshots
 ---
 
  <table>

@@ -1,9 +1,9 @@
 ##  Mangaliso Snothando
 
-📧 241177049@mycput.ac.za
-🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso) 
-📞 083 765 9532 
-📍 Woodstock, Cape Town
+- 📧 241177049@mycput.ac.za
+- 🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso)
+- 📞 083 765 9532
+- 📍 Woodstock, Cape Town
 
 ---
 

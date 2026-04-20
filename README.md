@@ -18,10 +18,10 @@ https://github.com/Gee-Man06
 ---
 ###### 💭Reflection
 - S
-  - In term 1, for our term mark were instructed to create a professional and easily
+  - In term 1, for our term mark we were instructed to design a professional and easily
     accessible way to present our CVs online using markdown.
 - T
-  - My goal was to create a clean, clear, well structured, and visually appealing CV using
+  - My goal was to design a clean, clear, well structured, and visually appealing CV using
     markdown , while also integrating features such as links, buttons to view mock interview video,
     and organized sections for readability
 - A

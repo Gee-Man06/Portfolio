@@ -16,14 +16,23 @@ https://github.com/Gee-Man06
 [![View CV](https://img.shields.io/badge/View-CV-blue?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io)  
 
 ---
+###### 💭Reflection
+
+---
 
 ####  🎥Mock Interview Video
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
 ---
+###### 💭Reflection
+
+---
 
 ####  🌐Published GitHub pages
 https://gee-man06.github.io/Portfolio/
+
+---
+###### 💭Reflection
 
 
 

@@ -67,6 +67,7 @@ https://gee-man06.github.io/Portfolio/
   - I configured my GitHub repository to enable GitHub Pages and structured my project files appropriately. I used mrkdown to format my           portfolio content and ensured all links, including viewing my CV and mock interview video , were correctly implemented using raw file         URLs. I also tested the deployment multiple times to confirm that the page loaded correctly and that all resources were accessible
 - R
   - I successfully deployed my CV as a live webpage, making it easily accessible to anyone with the link. This improved my ability to present     my work professionally online and enhanced my understanding of GitHub Pages, version control, and web-based project deployment. The           experience also strengthened my confidence in showcasing my skills through a digital portfolio.
+ ---
 
 
 

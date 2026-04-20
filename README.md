@@ -10,12 +10,12 @@
 ####  🐙GitHub Student Account
 https://github.com/Gee-Man06
 
----
+----
 
 #### 📄My CV
 [![View CV](https://img.shields.io/badge/View-CV-blue?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io)  
 
---
+---
 ###### 💭Reflection
 
 ---

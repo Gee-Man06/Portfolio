@@ -6,18 +6,15 @@
 
 ####  🐙GitHub Student Account
 https://github.com/Gee-Man06
-
 ---
 
 #### 📄My CV
-
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io)  
-
 ---
 
 ####  🎥Mock Interview Video
-
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
+---
 
 ####  🌐Published GitHub pages
 

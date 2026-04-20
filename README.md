@@ -3,6 +3,10 @@
 📧 241177049@mycput.ac.za | 🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso) | 📞 083 765 9532 | 📍 Woodstock, Cape Town
 
 ---
+## 🎯 GitHub Student Account
+https://github.com/Gee-Man06
+
+
 
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io)   [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
@@ -138,18 +142,4 @@ https://github.com/Gee-Man06/StudentSystem
 - I was responsible and mainly focused in the UI and the backend logic
 - Designed database queries for module registration and handling validation
 
-#### Screenshots
----
 
- <table>
-  <tr>
-    <td align="center"><b>Login Screen</b></td>
-    <td align="center"><b>Admin Dashboard</b></td>
-    <td align="center"><b>Student Enrollment</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/a1a93d4c-67e0-4dd4-bba0-0acab2a66985" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/27b7fb49-5531-47f0-aa73-3cdf3ac831d7" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/25580d30-f959-44ab-b87a-106ddd408ead" width="300"/></td>
-  </tr>
-</table>

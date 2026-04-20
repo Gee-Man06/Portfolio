@@ -4,84 +4,31 @@
 
 ---
 
-####  GitHub Student Account
----
+####  🐙GitHub Student Account
+
+
 https://github.com/Gee-Man06
 
 ---
 
-####  CV
----
+#### 📄My CV
+
+
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io)  
 
-####  Mock video
 ---
+
+####  🎥Mock Interview Video
+
+
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
 
 
 ---
 
-## 🎯 Career Objective 
-Final-year Diploma in Information and Communication Technology student specializing in Application Development, actively exploring opportunities in application development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
-
----
 
 
-## 🎓 Education
-
-**National Senior Certificate**  
-Zwelakhe Senior Secondary School (2023)
-
-**Diploma in ICT**  
-Cape Peninsula University of Technology (2024–2026)
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-- Java (Intermediate)  
-- Python (Intermediate)  
-- JavaScript (Intermediate)
-
-### 🌐 Web Technologies
-- HTML  
-- CSS
-
-### Frameworks
-- Laravel
-
-### 🧠 Software Design & Architecture
-- Domain-Driven Design 
-- Object-Oriented Design 
-- Design Patterns 
-- Layered Architecture
-   
-### 🧪 Testing 
-- Unit Testing (JUnit)
-- Test-Driven Development (TDD)
-
-### 🗄️ Databases
-- SQL (Intermediate)
-
-### 🤖 AI & Modern Development
-- Prompt Engineering (Advanced)  
-- Vibe Coding (LLMs – GPT-5 Nano)
-
-### 🧰 Tools & Platforms
-- Git
-- gitHub 
-- IntelliJ IDEA  
-- VS Code  
-- NetBeans  
-- Replit  
-- Fuzen  
-- Lovable.ai  
-
----
-
-## 🚀 Projects
 
 ### 📘 ExamReady Hub (2026 – Present)
 https://github.com/Gee-mangaliso/examreadyhub

@@ -111,14 +111,8 @@ https://github.com/Gee-Man06
   - Designed database queries for module registration and handling validation
   ---
 
-  ### 🎥 Mock Video Interview
-
-  [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
-
-  ---
 
   ### 📞 References
-  ---
 
     👤 Siyabonga Gxula  
     🏢 Zwelakhe Senior Secondary School  
@@ -126,6 +120,7 @@ https://github.com/Gee-Man06
     📞 078 766 5384 
  
   ---
+
 
    👤 Lusanda Mbenguzana  
    🏢 Zwelakhe Senior Secondary School  

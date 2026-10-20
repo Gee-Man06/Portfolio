@@ -12,6 +12,10 @@
 
 https://github.com/Gee-Man06
 
+###### GitHub account Reflection
+As an ICT student preparing for industry entry, I needed access to professional developer tools and a centralized platform to showcase my software repositories.
+My objective was to register for the GitHub Student Developer Pack using my CPUT institutional email (`@mycput.ac.za`) to verify student status and configure my profile. I submitted my student credentials to GitHub Education, verified my email address, set up my public profile, and organized my project repositories. Successfully gained access to GitHub Education tools, established an active GitHub student profile, and created a central platform to version-control and publish my academic and personal projects.
+
 ----
 
 ### 📄My CV
@@ -132,9 +136,9 @@ https://github.com/Gee-Man06
   ---
   ###### 💭CV Reflection
 
-  In term 1, for our term mark we were instructed to design a professional and easily accessible way to present our CVs online using markdown. My goal was to       design a clean, clear, well structured, and visually appealing CV using markdown, while also integrating features such as links, buttons to view mock             interview video, and organized sections for readability. I used markdown to format my CV, including headings, custom sections for education, skills, and          project. I used badge-style button to view the mock interview video, I learned how to correctly link files using gitHub's view file URLs. I successfully          created   a clean, clear, and version-controlled CV that can be easily accessed and shared online. This practise helped me improve my understanding in using      Markdown, gitHub file handling, and how to present and showcase technical work effectively, strengthening my CV for future opportunities.
+  For Term 1 work readiness training, we were required to design a professional and web-accessible online CV using Markdown. My goal was to construct a clean,    well-structured, and visually appealing CV using GitHub Flavored Markdown that effectively presented my education, technical skill set, and projects. I           utilized Markdown elements including clear heading hierarchies, bulleted skill categories, structured project descriptions, and custom shields/badges to link     external media like my mock interview video. I Successfully created a clean, version-controlled CV rendered directly on GitHub, enhancing my proficiency in       Markdown syntax and professional technical presentation.
 
-  ---
+  ----
 
   ####  🎥Mock Interview Video
   [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
@@ -142,9 +146,10 @@ https://github.com/Gee-Man06
  ---
  ###### 💭Mock Interview video Reflection
 
- As part of praparations for entering in the IT industry, we were instructed to participate in a mock interview to simulate a real world job interview environment to access my readiness which required me to select and respond to three common interview questios, "Tell me about yourself", "What skills do you have and how can they help you in this position?", and "Do you prefer to work independently or in a team task?" My goal was to deliver clear, structured, confident, and well prepared responses that effectively communicated my technical skills, and work preferences while maintaining professionalism throughout the interview. I prepared my responses in advance by aligning my answers with my academic experience, for the "Tell me about yorself" question, i focused on summarizing my educational background and interests in the IT industry. When answering the  skills based question, I highlighted my technical abilities in programming languages such as Java, Javascript, Python, Problem solving, and teamwork, and explained how these skills apply in a real work environment. For the teamworkoption, I explained my ability to collaborate effectively, while also being capable of working independently. During the mock interview, I made an effort to speak loudly, and more clearly, focused, and present my answers in a structured manner. The mock interview helped me improve my confidence and communication skills, particularly in presenting my skills in a professional way. I beacame more aware of the importance of answering in a structured way and linking my skills to real examples. I identiified areas of improvement, such as speaking loud, being more concise, and reducing hesitation when responding. This experience better prepared me for real interviews and strengthened my ability to present myself effectively.
+ To prepare for entering the IT industry, I participated in a simulated job interview requiring me to answer three core questions: *"Tell me about yourself"*, *"What skills do you have and how can they help you in this position?"*, and *"Do you prefer to work independently or in a team task?"*. My goal was to deliver clear, confident, and well-structured responses that communicated my technical competencies and work ethic while maintaining professionalism. I prepared structured answers aligned with my academic coursework and project experience. During recording, I focused on speaking clearly, maintaining steady eye contact, and articulating my Java, Python, and teamwork capabilities with concrete examples. The experience improved my communication confidence and highlighted key areas for growth, such as reducing hesitation and delivering concise, impactful answers in real-world interviews.
 
----
+
+----
 
 ####  🌐Published GitHub pages
 https://gee-man06.github.io/Portfolio/
@@ -152,9 +157,9 @@ https://gee-man06.github.io/Portfolio/
 ---
 ###### 💭Published to gitHub pages Reflection
 
-As part of building my online portfolio, In order to make my CV easily accessible to recruiters and showcase it in a professional, web-based format. I deployed my CV using GitHub Pages. My objective was to successfully host my CV online, ensure it was accessible via a public link, and present it in a clean and user-friendly format. I configured my GitHub repository to enable GitHub Pages and structured my project files appropriately. I used mrkdown to format my           portfolio content and ensured all links, including viewing my CV and mock interview video , were correctly implemented using raw file         URLs. I also tested the deployment multiple times to confirm that the page loaded correctly and that all resources were accessible.I successfully deployed my CV as a live webpage, making it easily accessible to anyone with the link. This improved my ability to present     my work professionally online and enhanced my understanding of GitHub Pages, version control, and web-based project deployment. The experience also strengthened my confidence in showcasing my skills through a digital portfolio.
+To make my portfolio publicly accessible to recruiters and examiners, I needed to host my digital portfolio using GitHub Pages. My objective was to deploy the repository as a live website, verify that all assets, internal links, and external references loaded correctly, and ensure proper page rendering. I enabled GitHub Pages in the repository settings, structured the project directory appropriately, tested all relative URLs and shields, and pushed updates via Git to verify automatic deployment. Successfully hosted my portfolio on a public web URL, gaining hands-on experience with static web deployment, version control pipelines, and digital portfolio management.
 
- ---
+ ----
 
 
 

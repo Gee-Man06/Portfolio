@@ -8,7 +8,7 @@
 ---
 
 ####  🐙GitHub Student Account
-<img width="1915" height="927" alt="image" src="https://github.com/user-attachments/assets/b4797092-bad8-4aa9-9e7d-c9fb159f2775" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/b4797092-bad8-4aa9-9e7d-c9fb159f2775" />
 
 https://github.com/Gee-Man06
 

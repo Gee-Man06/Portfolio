@@ -13,8 +13,10 @@
 https://github.com/Gee-Man06
 
 ###### GitHub account Reflection
-As an ICT student preparing for industry entry, I needed access to professional developer tools and a centralized platform to showcase my software repositories.
-My objective was to register for the GitHub Student Developer Pack using my CPUT institutional email (`@mycput.ac.za`) to verify student status and configure my profile. I submitted my student credentials to GitHub Education, verified my email address, set up my public profile, and organized my project repositories. Successfully gained access to GitHub Education tools, established an active GitHub student profile, and created a central platform to version-control and publish my academic and personal projects.
+- **Situation :** As an ICT student preparing for industry entry, I needed access to professional developer tools and a centralized platform to showcase my software repositories.
+- **Task :** My objective was to register for the GitHub Student Developer Pack using my CPUT institutional email (`@mycput.ac.za`) to verify student status and configure my profile.
+- **Action :**  I submitted my student credentials to GitHub Education, verified my email address, set up my public profile, and organized my project repositories.
+- **Result :**  Successfully gained access to GitHub Education tools, established an active GitHub student profile, and created a central platform to version-control and publish my academic and personal projects.
 
 ----
 
@@ -135,8 +137,10 @@ My objective was to register for the GitHub Student Developer Pack using my CPUT
           📞 078 072 3715
   ---
   ###### 💭CV Reflection
-
-  For Term 1 work readiness training, we were required to design a professional and web-accessible online CV using Markdown. My goal was to construct a clean,    well-structured, and visually appealing CV using GitHub Flavored Markdown that effectively presented my education, technical skill set, and projects. I           utilized Markdown elements including clear heading hierarchies, bulleted skill categories, structured project descriptions, and custom shields/badges to link     external media like my mock interview video. I Successfully created a clean, version-controlled CV rendered directly on GitHub, enhancing my proficiency in       Markdown syntax and professional technical presentation.
+  - **Situation :** For Term 1 work readiness training, we were required to design a professional and web-accessible online CV using Markdown.
+  - **Task :**  My goal was to construct a clean, well-structured, and visually appealing CV using GitHub Flavored Markdown that effectively presented my education, technical skill set, and projects.
+  - **Action :** I utilized Markdown elements including clear heading hierarchies, bulleted skill categories, structured project descriptions, and custom shields/badges to link external media like my mock interview video.
+  - **Result :** I Successfully created a clean, version-controlled CV rendered directly on GitHub, enhancing my proficiency in       Markdown syntax and professional technical presentation.
 
   ----
 
@@ -145,8 +149,10 @@ My objective was to register for the GitHub Student Developer Pack using my CPUT
 
  ---
  ###### 💭Mock Interview video Reflection
-
- To prepare for entering the IT industry, I participated in a simulated job interview requiring me to answer three core questions: *"Tell me about yourself"*, *"What skills do you have and how can they help you in this position?"*, and *"Do you prefer to work independently or in a team task?"*. My goal was to deliver clear, confident, and well-structured responses that communicated my technical competencies and work ethic while maintaining professionalism. I prepared structured answers aligned with my academic coursework and project experience. During recording, I focused on speaking clearly, maintaining steady eye contact, and articulating my Java, Python, and teamwork capabilities with concrete examples. The experience improved my communication confidence and highlighted key areas for growth, such as reducing hesitation and delivering concise, impactful answers in real-world interviews.
+ - **Situation :** To prepare for entering the IT industry, I participated in a simulated job interview requiring me to answer three core questions: *"Tell me about yourself"*, *"What skills do you have and how can they help you in this position?"*, and *"Do you prefer to work independently or in a team task?"*.
+ - **Task :**  My goal was to deliver clear, confident, and well-structured responses that communicated my technical competencies and work ethic while maintaining professionalism.
+ - **Action :**  I prepared structured answers aligned with my academic coursework and project experience. During recording, I focused on speaking clearly, maintaining steady eye contact, and articulating my Java, Python, and teamwork capabilities with concrete examples.
+ - **Result :**  The experience improved my communication confidence and highlighted key areas for growth, such as reducing hesitation and delivering concise, impactful answers in real-world interviews.
 
 
 ----
@@ -156,8 +162,10 @@ https://gee-man06.github.io/Portfolio/
 
 ---
 ###### 💭Published to gitHub pages Reflection
-
-To make my portfolio publicly accessible to recruiters and examiners, I needed to host my digital portfolio using GitHub Pages. My objective was to deploy the repository as a live website, verify that all assets, internal links, and external references loaded correctly, and ensure proper page rendering. I enabled GitHub Pages in the repository settings, structured the project directory appropriately, tested all relative URLs and shields, and pushed updates via Git to verify automatic deployment. Successfully hosted my portfolio on a public web URL, gaining hands-on experience with static web deployment, version control pipelines, and digital portfolio management.
+- **Situation :** To make my portfolio publicly accessible to recruiters and examiners, I needed to host my digital portfolio using GitHub Pages.
+- **Task :** My objective was to deploy the repository as a live website, verify that all assets, internal links, and external references loaded correctly, and ensure proper page rendering.
+- **Action :** I enabled GitHub Pages in the repository settings, structured the project directory appropriately, tested all relative URLs and shields, and pushed updates via Git to verify automatic deployment.
+- **Result :** Successfully hosted my portfolio on a public web URL, gaining hands-on experience with static web deployment, version control pipelines, and digital portfolio management.
 
  ----
 

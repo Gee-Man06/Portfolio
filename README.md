@@ -210,6 +210,11 @@ Cape Peninsula University of Technology (2024–2026)
 
 ----
 ######  💭 User Stories and Tasks Reflection
+- **Situation :** Raw project features needed to be structured into user-centered requirements and broken down into actionable development tasks.
+- **Task :** My goal was to define user stories and decompose complex deliverables into granular task checklists for individual team execution.
+- **Action :** I helped structure cards such as "Design Wireframes" and "Conduct student survey," adding sub-task checklists to track specific execution steps for each user requirement.
+- **Result :** Created clear, measurable task breakdowns within each card, allowing team members to execute specific sub-tasks systematically without missing technical dependencies.
+  
 ---
 ####  📋 Product Backlog
 [![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
@@ -220,9 +225,19 @@ Cape Peninsula University of Technology (2024–2026)
 ####  🏃 Sprint Backlog
 [![View Task Board](https://img.shields.io/badge/Sprint-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f982c85e-9885-416f-a5f7-a92b3f3bbf13" />
+<img width="206" height="431" alt="image" src="https://github.com/user-attachments/assets/e5f996d0-6f95-4fdd-add5-10aea3952945" />
+
+
+
 ----
 ######  💭 Sprint Backlog Reflection
---
+- **Situation :** To execute development predictably, large chunks of work from the main Product Backlog needed to be moved into focused, time-boxed sprint columns.
+- **Task :** My goal was to participate in organizing dedicated sprint iterations (*Sprint 1: Brainstorming*, *Sprint 2: Survey*, *Sprint 3: Planning & Analysis*, *Sprint 3: Design*, *Sprint 3: Frontend Development*, *Sprint 3: Backend Development*, *Sprint 3: Deployment) with distinct daily execution targets.
+- **Action :** I assisted in moving prioritized backlog cards into specific Sprint columns, attaching daily flags (`Day 1`, `Day 2`, `Day 3`, `Day 4`, `Day 5`) and assigning responsible team members to each card.
+- **Result :** Successfully maintained clear sprint scopes that gave full visual visibility over active development cycles.
+  
+
 ####  📓 Agile Logbook
 [![View Task Board](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 

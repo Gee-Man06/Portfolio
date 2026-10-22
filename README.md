@@ -10,7 +10,7 @@
 ###  🐙GitHub Student Account
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/b4797092-bad8-4aa9-9e7d-c9fb159f2775" />
 
-https://github.com/Gee-Man06
+[gitHub Account](https://github.com/Gee-Man06)
 
 ###### GitHub account Reflection
 - **Situation :** As an ICT student preparing for industry entry, I needed access to professional developer tools and a centralized platform to showcase my software repositories.

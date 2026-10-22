@@ -219,7 +219,7 @@ Cape Peninsula University of Technology (2024–2026)
 ####  📋 Product Backlog
 [![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/eae45535-f9aa-45fd-958d-770caab91f69" />
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/eae45535-f9aa-45fd-958d-770caab91f69" />
 
 ----
 ######  💭 Product Backlog Reflection
@@ -227,6 +227,7 @@ Cape Peninsula University of Technology (2024–2026)
 - **Task :** My objective was to maintain an organized and prioritized Product Backlog containing all unassigned and upcoming project work.
 - **Action :** I helped catalog 51 distinct task cards in the main "Product Backlog" column, categorizing them with color-coded labels (`Business strategy`, `Design`, `Sprint 4`) and allocating priority tags.
 - **Result :** Created a centralized product backlog that served as the authoritative source of scope for the PC Revival application, preventing unapproved scope additions.
+  
 ---
 ####  🏃 Sprint Backlog
 [![View Task Board](https://img.shields.io/badge/Sprint-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
@@ -243,7 +244,7 @@ Cape Peninsula University of Technology (2024–2026)
 - **Action :** I assisted in moving prioritized backlog cards into specific Sprint columns, attaching daily flags (`Day 1`, `Day 2`, `Day 3`, `Day 4`, `Day 5`) and assigning responsible team members to each card.
 - **Result :** Successfully maintained clear sprint scopes that gave full visual visibility over active development cycles.
   
-
+---
 ####  📓 Agile Logbook
 [![View Task Board](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 

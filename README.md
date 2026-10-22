@@ -71,10 +71,10 @@ Cape Peninsula University of Technology (2024–2026)
 
 
 ######  🧠 Software Design & Architecture
-   - Domain-Driven Design 
-   - Object-Oriented Design 
-   - Design Patterns 
-   - Layered Architecture
+- Domain-Driven Design
+- Object-Oriented Design 
+- Design Patterns 
+- Layered Architecture
 
 
 ######  🧪 Testing 

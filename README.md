@@ -21,7 +21,7 @@ https://github.com/Gee-Man06
 ----
 
 ### 📄My CV
-   ####  Mangaliso Snothando
+   ####   Mangaliso Snothando
 
    - 📧 241177049@mycput.ac.za
    - 🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso)
@@ -36,7 +36,7 @@ https://github.com/Gee-Man06
    ---
 
 
-   #### 🎓 Education
+   ####  🎓 Education
 
    **National Senior Certificate**  
    Zwelakhe Senior Secondary School (2023)
@@ -46,42 +46,42 @@ https://github.com/Gee-Man06
 
    ---
 
-   #### 🛠️ Technical Skills
+   ####  🛠️ Technical Skills
 
-   ###### 💻 Programming Languages
+   ######  💻 Programming Languages
    - Java (Intermediate)  
    - Python (Intermediate)  
    - JavaScript (Intermediate)
 
-   ###### 🌐 Web Technologies
+   ######  🌐 Web Technologies
    - HTML  
    - CSS
 
-   ###### Frameworks
+   ######  Frameworks
    - Laravel
    - Spring boot
 
-   ###### 🧠 Software Design & Architecture
+   ######  🧠 Software Design & Architecture
    - Domain-Driven Design 
    - Object-Oriented Design 
    - Design Patterns 
    - Layered Architecture
    
-   ###### 🧪 Testing 
+   ######  🧪 Testing 
    - Unit Testing (JUnit)
    - Test-Driven Development (TDD)
 
-   ###### 🗄️ Databases
+   ######  🗄️ Databases
    - SQL (Intermediate)
    - PostgreSQL
    - SQLite
    - Supabase
 
-   ###### 🤖 AI & Modern Development
+   ######  🤖 AI & Modern Development
    - Prompt Engineering (Advanced)  
    - Vibe Coding (LLMs – GPT-5 Nano)
 
-   ###### 🧰 Tools & Platforms
+   ######  🧰 Tools & Platforms
    - Git
    - gitHub 
    - IntelliJ IDEA  
@@ -94,9 +94,9 @@ https://github.com/Gee-Man06
 
   ---
 
-  #### 🚀 Projects
+  ####  🚀 Projects
 
-  ###### 📘 ExamReady Hub               2026 – Present
+  ######  📘 ExamReady Hub               2026 – Present
 
   Individual Project | Deployed Educational Web Platform  
 
@@ -107,7 +107,7 @@ https://github.com/Gee-Man06
   - Designed responsive frontend and scalable backend-ready architecture  
   ---
 
-  ###### 🛒 Mzansi ThriftShop           2025 – Present
+  ######  🛒 Mzansi ThriftShop           2025 – Present
 
   Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
 
@@ -117,7 +117,7 @@ https://github.com/Gee-Man06
   - Created structured guides to support backend integration  
   ---
 
-  ###### 📘 Course Enrollment System     2025-Completed
+  ######  📘 Course Enrollment System     2025-Completed
   Group Project | Student Course Enrollment System
 
   - A Java-based course management system developed 2nd year group project, allowing administrators to manage students and modules, while students can enroll in        available courses
@@ -125,18 +125,21 @@ https://github.com/Gee-Man06
   - Designed database queries for module registration and handling validation
   ---
 
-  #### 📞 References
-   ###### 👤 Siyabonga Gxula  
-          🏢 Zwelakhe Senior Secondary School  
-          📧 gxusiyabonga@gmail.com  
-          📞 078 766 5384 
+  ####  📞 References
 
-   ###### 👤 Lusanda Mbenguzana  
-          🏢 Zwelakhe Senior Secondary School  
-          📧 lusandambenguzana1@gmail.com  
-          📞 078 072 3715
   ---
-  ###### 💭CV Reflection
+  
+   ######  👤 Siyabonga Gxula  
+           🏢 Zwelakhe Senior Secondary School  
+           📧 gxusiyabonga@gmail.com  
+           📞 078 766 5384 
+
+   ######  👤 Lusanda Mbenguzana  
+           🏢 Zwelakhe Senior Secondary School  
+           📧 lusandambenguzana1@gmail.com  
+           📞 078 072 3715
+ 
+  ######   💭CV Reflection
   - **Situation :** For Term 1 work readiness training, we were required to design a professional and web-accessible online CV using Markdown.
   - **Task :**  My goal was to construct a clean, well-structured, and visually appealing CV using GitHub Flavored Markdown that effectively presented my education, technical skill set, and projects.
   - **Action :** I utilized Markdown elements including clear heading hierarchies, bulleted skill categories, structured project descriptions, and custom shields/badges to link external media like my mock interview video.
@@ -144,11 +147,11 @@ https://github.com/Gee-Man06
 
   ----
 
-  ####  🎥Mock Interview Video
+  ####   🎥Mock Interview Video
   [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
  ---
- ###### 💭Mock Interview video Reflection
+ ######  💭Mock Interview video Reflection
  - **Situation :** To prepare for entering the IT industry, I participated in a simulated job interview requiring me to answer three core questions: *"Tell me about yourself"*, *"What skills do you have and how can they help you in this position?"*, and *"Do you prefer to work independently or in a team task?"*.
  - **Task :**  My goal was to deliver clear, confident, and well-structured responses that communicated my technical competencies and work ethic while maintaining professionalism.
  - **Action :**  I prepared structured answers aligned with my academic coursework and project experience. During recording, I focused on speaking clearly, maintaining steady eye contact, and articulating my Java, Python, and teamwork capabilities with concrete examples.
@@ -157,12 +160,12 @@ https://github.com/Gee-Man06
 
 ----
 
-####  🌐Published GitHub pages
+####   🌐Published GitHub pages
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?)](https://gee-man06.github.io/Portfolio/)
 
 
 ---
-###### 💭Published to gitHub pages Reflection
+######  💭Published to gitHub pages Reflection
 - **Situation :** To make my portfolio publicly accessible to recruiters and examiners, I needed to host my digital portfolio using GitHub Pages.
 - **Task :** My objective was to deploy the repository as a live website, verify that all assets, internal links, and external references loaded correctly, and ensure proper page rendering.
 - **Action :** I enabled GitHub Pages in the repository settings, structured the project directory appropriately, tested all relative URLs and shields, and pushed updates via Git to verify automatic deployment.

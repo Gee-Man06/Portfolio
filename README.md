@@ -219,8 +219,14 @@ Cape Peninsula University of Technology (2024–2026)
 ####  📋 Product Backlog
 [![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/eae45535-f9aa-45fd-958d-770caab91f69" />
+
 ----
 ######  💭 Product Backlog Reflection
+- **Situation :** The PC Revival project required a single, comprehensive repository containing all identified features, survey requirements, design tasks, and system documentations.
+- **Task :** My objective was to maintain an organized and prioritized Product Backlog containing all unassigned and upcoming project work.
+- **Action :** I helped catalog 51 distinct task cards in the main "Product Backlog" column, categorizing them with color-coded labels (`Business strategy`, `Design`, `Sprint 4`) and allocating priority tags.
+- **Result :** Created a centralized product backlog that served as the authoritative source of scope for the PC Revival application, preventing unapproved scope additions.
 ---
 ####  🏃 Sprint Backlog
 [![View Task Board](https://img.shields.io/badge/Sprint-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
@@ -233,7 +239,7 @@ Cape Peninsula University of Technology (2024–2026)
 ----
 ######  💭 Sprint Backlog Reflection
 - **Situation :** To execute development predictably, large chunks of work from the main Product Backlog needed to be moved into focused, time-boxed sprint columns.
-- **Task :** My goal was to participate in organizing dedicated sprint iterations (*Sprint 1: Brainstorming*, *Sprint 2: Survey*, *Sprint 3: Planning & Analysis*, *Sprint 3: Design*, *Sprint 3: Frontend Development*, *Sprint 3: Backend Development*, *Sprint 3: Deployment*) with distinct daily execution targets.
+- **Task :** My goal was to participate in organizing dedicated sprint iterations (*Sprint 1: Brainstorming*, *Sprint 2: Survey*, *Sprint 3: Planning & Analysis*, *Sprint 4: Design*, *Sprint 5: Frontend Development*, *Sprint 6: Backend Development*, *Sprint 7: Integration & Testing*, *Sprint 8: Deployment & Launch*, *Sprint 9: Post Launc & Growth*) with distinct daily execution targets.
 - **Action :** I assisted in moving prioritized backlog cards into specific Sprint columns, attaching daily flags (`Day 1`, `Day 2`, `Day 3`, `Day 4`, `Day 5`) and assigning responsible team members to each card.
 - **Result :** Successfully maintained clear sprint scopes that gave full visual visibility over active development cycles.
   

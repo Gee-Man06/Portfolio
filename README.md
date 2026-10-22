@@ -186,7 +186,7 @@ Cape Peninsula University of Technology (2024–2026)
 
 ---
 
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?)](https://gee-man06.github.io/Portfolio/)
+[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://gee-man06.github.io/Portfolio/)
 
 ----
 ######  💭Published to gitHub pages Reflection
@@ -202,7 +202,7 @@ Cape Peninsula University of Technology (2024–2026)
 ######   💭 Agile Team Charter Reflection
 ---
 ####  📝 User Stories and Tasks
-[![View Task Board](https://img.shields.io/badge/User-Stories-blue?)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+[![View Task Board](https://img.shields.io/badge/User-Stories-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8408b8ba-0241-4c61-ae11-bbab7248d09e" />
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6b8b35f1-8502-430c-a2c7-797c60ef70ef" />
@@ -212,19 +212,19 @@ Cape Peninsula University of Technology (2024–2026)
 ######  💭 User Stories and Tasks Reflection
 ---
 ####  📋 Product Backlog
-[![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+[![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
 ----
 ######  💭 Product Backlog Reflection
 ---
 ####  🏃 Sprint Backlog
-[![View Task Board](https://img.shields.io/badge/Sprint-Backlog-blue?)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+[![View Task Board](https://img.shields.io/badge/Sprint-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
 ----
 ######  💭 Sprint Backlog Reflection
 --
 ####  📓 Agile Logbook
-[![View Task Board](https://img.shields.io/badge/Agile-Logbook-blue?)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+[![View Task Board](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
 ----
 ######  💭 Agile Logbook Reflection

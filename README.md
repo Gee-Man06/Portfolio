@@ -53,9 +53,9 @@ Cape Peninsula University of Technology (2024–2026)
 ---
 
 ######  💻 Programming Languages
-   - Java (Intermediate)  
-   - Python (Intermediate)  
-   - JavaScript (Intermediate)
+- Java (Intermediate)
+- Python (Intermediate)  
+- JavaScript (Intermediate)
      
 ----
 

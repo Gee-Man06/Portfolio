@@ -220,6 +220,8 @@ Cape Peninsula University of Technology (2024–2026)
 [![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
 <img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/eae45535-f9aa-45fd-958d-770caab91f69" />
+<img width="350" height="813" alt="image" src="https://github.com/user-attachments/assets/df03cbde-5cc8-47a6-abad-4152ce2ca0d2" />
+
 
 ----
 ######  💭 Product Backlog Reflection
@@ -228,11 +230,10 @@ Cape Peninsula University of Technology (2024–2026)
 - **Action :** I helped catalog 51 distinct task cards in the main "Product Backlog" column, categorizing them with color-coded labels (`Business strategy`, `Design`, `Sprint 4`) and allocating priority tags.
 - **Result :** Created a centralized product backlog that served as the authoritative source of scope for the PC Revival application, preventing unapproved scope additions.
   
----
+----
 ####  🏃 Sprint Backlog
 [![View Task Board](https://img.shields.io/badge/Sprint-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f982c85e-9885-416f-a5f7-a92b3f3bbf13" />
 <img width="206" height="300" alt="image" src="https://github.com/user-attachments/assets/e5f996d0-6f95-4fdd-add5-10aea3952945" />
 
 

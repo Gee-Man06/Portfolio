@@ -28,12 +28,17 @@ https://github.com/Gee-Man06
    - 📞 083 765 9532
    - 📍 Woodstock, Cape Town
 
+---
+
 
 ####   🎯 Career Objective 
 
 Final-year Diploma in Information and Communication Technology student specializing in Application Development, actively exploring opportunities in               application development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a               technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and     continue developing industry-level technical expertise.
 
+---
+
 ####  🎓 Education
+---
 
 **National Senior Certificate**  
 Zwelakhe Senior Secondary School (2023)
@@ -41,30 +46,41 @@ Zwelakhe Senior Secondary School (2023)
 **Diploma in ICT**  
 Cape Peninsula University of Technology (2024–2026)
 
+--
+
 ####  🛠️ Technical Skills
+---
 
 ######  💻 Programming Languages
    - Java (Intermediate)  
    - Python (Intermediate)  
    - JavaScript (Intermediate)
+----
 
 ######  🌐 Web Technologies
    - HTML  
    - CSS
 
+----
+
 ######  Frameworks
    - Laravel
    - Spring boot
+
+----
 
 ######  🧠 Software Design & Architecture
    - Domain-Driven Design 
    - Object-Oriented Design 
    - Design Patterns 
    - Layered Architecture
-   
+----
+
 ######  🧪 Testing 
    - Unit Testing (JUnit)
    - Test-Driven Development (TDD)
+
+----
 
 ######  🗄️ Databases
    - SQL (Intermediate)
@@ -72,9 +88,13 @@ Cape Peninsula University of Technology (2024–2026)
    - SQLite
    - Supabase
 
+----
+
 ######  🤖 AI & Modern Development
    - Prompt Engineering (Advanced)  
    - Vibe Coding (LLMs – GPT-5 Nano)
+
+----
 
 ######  🧰 Tools & Platforms
    - Git
@@ -87,6 +107,7 @@ Cape Peninsula University of Technology (2024–2026)
    - Lovable.ai
    - Bolt.ai
 
+----
 
 ####  🚀 Projects
 
@@ -99,7 +120,8 @@ Cape Peninsula University of Technology (2024–2026)
   - Implemented dynamic content for quizzes, exam papers, and memorandums  
   - Used AI-assisted development for system design and content generation  
   - Designed responsive frontend and scalable backend-ready architecture  
-  --
+
+----
 
 ######  🛒 Mzansi ThriftShop           2025 – Present
 
@@ -109,7 +131,8 @@ Cape Peninsula University of Technology (2024–2026)
   - Initially worked with dummy API data while frontend was completed  
   - Currently improving database integration  
   - Created structured guides to support backend integration  
-  ---
+
+----
 
 ######  📘 Course Enrollment System     2025-Completed
   Group Project | Student Course Enrollment System
@@ -117,14 +140,18 @@ Cape Peninsula University of Technology (2024–2026)
   - A Java-based course management system developed 2nd year group project, allowing administrators to manage students and modules, while students can enroll in        available courses
   - I was responsible and mainly focused in the UI and the backend logic
   - Designed database queries for module registration and handling validation
-  --
+
+----
 
 ####  📞 References
+
+---
 
 ######  👤 Siyabonga Gxula  
            🏢 Zwelakhe Senior Secondary School  
            📧 gxusiyabonga@gmail.com  
            📞 078 766 5384 
+----
 
 ######  👤 Lusanda Mbenguzana  
            🏢 Zwelakhe Senior Secondary School  
@@ -137,11 +164,14 @@ Cape Peninsula University of Technology (2024–2026)
   - **Action :** I utilized Markdown elements including clear heading hierarchies, bulleted skill categories, structured project descriptions, and custom shields/badges to link external media like my mock interview video.
   - **Result :** I Successfully created a clean, version-controlled CV rendered directly on GitHub, enhancing my proficiency in       Markdown syntax and professional technical presentation.
 
-
+--
 
 ####   🎥Mock Interview Video
+
+----
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
+----
 
 ######  💭Mock Interview video Reflection
  - **Situation :** To prepare for entering the IT industry, I participated in a simulated job interview requiring me to answer three core questions: *"Tell me about yourself"*, *"What skills do you have and how can they help you in this position?"*, and *"Do you prefer to work independently or in a team task?"*.
@@ -151,8 +181,12 @@ Cape Peninsula University of Technology (2024–2026)
 
 
 ####   🌐Published GitHub pages
+
+---
+
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?)](https://gee-man06.github.io/Portfolio/)
 
+----
 ######  💭Published to gitHub pages Reflection
 - **Situation :** To make my portfolio publicly accessible to recruiters and examiners, I needed to host my digital portfolio using GitHub Pages.
 - **Task :** My objective was to deploy the repository as a live website, verify that all assets, internal links, and external references loaded correctly, and ensure proper page rendering.

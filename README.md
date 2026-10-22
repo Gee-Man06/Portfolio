@@ -28,60 +28,55 @@ https://github.com/Gee-Man06
    - 📞 083 765 9532
    - 📍 Woodstock, Cape Town
 
-------
+
 ####   🎯 Career Objective 
 
 Final-year Diploma in Information and Communication Technology student specializing in Application Development, actively exploring opportunities in               application development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a               technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and     continue developing industry-level technical expertise.
 
-   ---
+####  🎓 Education
 
+**National Senior Certificate**  
+Zwelakhe Senior Secondary School (2023)
 
-   ####  🎓 Education
+**Diploma in ICT**  
+Cape Peninsula University of Technology (2024–2026)
 
-   **National Senior Certificate**  
-   Zwelakhe Senior Secondary School (2023)
+####  🛠️ Technical Skills
 
-   **Diploma in ICT**  
-   Cape Peninsula University of Technology (2024–2026)
-
-   ---
-
-   ####  🛠️ Technical Skills
-
-   ######  💻 Programming Languages
+######  💻 Programming Languages
    - Java (Intermediate)  
    - Python (Intermediate)  
    - JavaScript (Intermediate)
 
-   ######  🌐 Web Technologies
+######  🌐 Web Technologies
    - HTML  
    - CSS
 
-   ######  Frameworks
+######  Frameworks
    - Laravel
    - Spring boot
 
-   ######  🧠 Software Design & Architecture
+######  🧠 Software Design & Architecture
    - Domain-Driven Design 
    - Object-Oriented Design 
    - Design Patterns 
    - Layered Architecture
    
-   ######  🧪 Testing 
+######  🧪 Testing 
    - Unit Testing (JUnit)
    - Test-Driven Development (TDD)
 
-   ######  🗄️ Databases
+######  🗄️ Databases
    - SQL (Intermediate)
    - PostgreSQL
    - SQLite
    - Supabase
 
-   ######  🤖 AI & Modern Development
+######  🤖 AI & Modern Development
    - Prompt Engineering (Advanced)  
    - Vibe Coding (LLMs – GPT-5 Nano)
 
-   ######  🧰 Tools & Platforms
+######  🧰 Tools & Platforms
    - Git
    - gitHub 
    - IntelliJ IDEA  
@@ -92,11 +87,10 @@ Final-year Diploma in Information and Communication Technology student specializ
    - Lovable.ai
    - Bolt.ai
 
-  ---
 
-  ####  🚀 Projects
+####  🚀 Projects
 
-  ######  📘 ExamReady Hub               2026 – Present
+######  📘 ExamReady Hub               2026 – Present
 
   Individual Project | Deployed Educational Web Platform  
 
@@ -105,9 +99,9 @@ Final-year Diploma in Information and Communication Technology student specializ
   - Implemented dynamic content for quizzes, exam papers, and memorandums  
   - Used AI-assisted development for system design and content generation  
   - Designed responsive frontend and scalable backend-ready architecture  
-  ---
+  --
 
-  ######  🛒 Mzansi ThriftShop           2025 – Present
+######  🛒 Mzansi ThriftShop           2025 – Present
 
   Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
 
@@ -117,54 +111,48 @@ Final-year Diploma in Information and Communication Technology student specializ
   - Created structured guides to support backend integration  
   ---
 
-  ######  📘 Course Enrollment System     2025-Completed
+######  📘 Course Enrollment System     2025-Completed
   Group Project | Student Course Enrollment System
 
   - A Java-based course management system developed 2nd year group project, allowing administrators to manage students and modules, while students can enroll in        available courses
   - I was responsible and mainly focused in the UI and the backend logic
   - Designed database queries for module registration and handling validation
-  ---
+  --
 
-  ####  📞 References
+####  📞 References
 
-  ---
-  
-   ######  👤 Siyabonga Gxula  
+######  👤 Siyabonga Gxula  
            🏢 Zwelakhe Senior Secondary School  
            📧 gxusiyabonga@gmail.com  
            📞 078 766 5384 
 
-   ######  👤 Lusanda Mbenguzana  
+######  👤 Lusanda Mbenguzana  
            🏢 Zwelakhe Senior Secondary School  
            📧 lusandambenguzana1@gmail.com  
            📞 078 072 3715
  
-  ######   💭CV Reflection
+######   💭CV Reflection
   - **Situation :** For Term 1 work readiness training, we were required to design a professional and web-accessible online CV using Markdown.
   - **Task :**  My goal was to construct a clean, well-structured, and visually appealing CV using GitHub Flavored Markdown that effectively presented my education, technical skill set, and projects.
   - **Action :** I utilized Markdown elements including clear heading hierarchies, bulleted skill categories, structured project descriptions, and custom shields/badges to link external media like my mock interview video.
   - **Result :** I Successfully created a clean, version-controlled CV rendered directly on GitHub, enhancing my proficiency in       Markdown syntax and professional technical presentation.
 
-  ----
 
-  ####   🎥Mock Interview Video
-  [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
- ---
- ######  💭Mock Interview video Reflection
+####   🎥Mock Interview Video
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
+
+
+######  💭Mock Interview video Reflection
  - **Situation :** To prepare for entering the IT industry, I participated in a simulated job interview requiring me to answer three core questions: *"Tell me about yourself"*, *"What skills do you have and how can they help you in this position?"*, and *"Do you prefer to work independently or in a team task?"*.
  - **Task :**  My goal was to deliver clear, confident, and well-structured responses that communicated my technical competencies and work ethic while maintaining professionalism.
  - **Action :**  I prepared structured answers aligned with my academic coursework and project experience. During recording, I focused on speaking clearly, maintaining steady eye contact, and articulating my Java, Python, and teamwork capabilities with concrete examples.
  - **Result :**  The experience improved my communication confidence and highlighted key areas for growth, such as reducing hesitation and delivering concise, impactful answers in real-world interviews.
 
 
-----
-
 ####   🌐Published GitHub pages
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?)](https://gee-man06.github.io/Portfolio/)
 
-
----
 ######  💭Published to gitHub pages Reflection
 - **Situation :** To make my portfolio publicly accessible to recruiters and examiners, I needed to host my digital portfolio using GitHub Pages.
 - **Task :** My objective was to deploy the repository as a live website, verify that all assets, internal links, and external references loaded correctly, and ensure proper page rendering.

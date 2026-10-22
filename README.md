@@ -158,7 +158,8 @@ https://github.com/Gee-Man06
 ----
 
 ####  🌐Published GitHub pages
-https://gee-man06.github.io/Portfolio/
+[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?)](https://gee-man06.github.io/Portfolio/)
+
 
 ---
 ###### 💭Published to gitHub pages Reflection

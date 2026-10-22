@@ -28,14 +28,11 @@
    - 📞 083 765 9532
    - 📍 Woodstock, Cape Town
 
----
-
 
 ####   🎯 Career Objective 
 
 Final-year Diploma in Information and Communication Technology student specializing in Application Development, actively exploring opportunities in               application development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a               technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and     continue developing industry-level technical expertise.
 
----
 
 ####  🎓 Education
 ----
@@ -45,9 +42,6 @@ Zwelakhe Senior Secondary School (2023)
 
 **Diploma in ICT**  
 Cape Peninsula University of Technology (2024–2026)
-
----
-
 
 
 ####  🛠️ Technical Skills
@@ -164,10 +158,7 @@ Cape Peninsula University of Technology (2024–2026)
 ---
 
 ####   🎥Mock Interview Video
-
-----
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
-
 
 
 ######  💭Mock Interview video Reflection
@@ -179,12 +170,8 @@ Cape Peninsula University of Technology (2024–2026)
 ---
 
 ####   🌐Published GitHub pages
-
-----
-
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://gee-man06.github.io/Portfolio/)
 
-----
 ######  💭Published to gitHub pages Reflection
 - **Situation :** To make my portfolio publicly accessible to recruiters and examiners, I needed to host my digital portfolio using GitHub Pages.
 - **Task :** My objective was to deploy the repository as a live website, verify that all assets, internal links, and external references loaded correctly, and ensure proper page rendering.
@@ -194,7 +181,7 @@ Cape Peninsula University of Technology (2024–2026)
  ---
 
 ####  📜 Agile Team Charter
-----
+
 ######   💭 Agile Team Charter Reflection
 
 ---
@@ -205,7 +192,7 @@ Cape Peninsula University of Technology (2024–2026)
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6b8b35f1-8502-430c-a2c7-797c60ef70ef" />
 
 
-----
+
 ######  💭 User Stories and Tasks Reflection
 - **Situation :** Raw project features needed to be structured into user-centered requirements and broken down into actionable development tasks.
 - **Task :** My goal was to define user stories and decompose complex deliverables into granular task checklists for individual team execution.
@@ -219,7 +206,6 @@ Cape Peninsula University of Technology (2024–2026)
 <img width="350" height="613" alt="image" src="https://github.com/user-attachments/assets/df03cbde-5cc8-47a6-abad-4152ce2ca0d2" />
 
 
-----
 ######  💭 Product Backlog Reflection
 - **Situation :** The PC Revival project required a single, comprehensive repository containing all identified features, survey requirements, design tasks, and system documentations.
 - **Task :** My objective was to maintain an organized and prioritized Product Backlog containing all unassigned and upcoming project work.
@@ -233,8 +219,6 @@ Cape Peninsula University of Technology (2024–2026)
 <img width="206" height="300" alt="image" src="https://github.com/user-attachments/assets/e5f996d0-6f95-4fdd-add5-10aea3952945" />
 
 
-
-----
 ######  💭 Sprint Backlog Reflection
 - **Situation :** To execute development predictably, large chunks of work from the main Product Backlog needed to be moved into focused, time-boxed sprint columns.
 - **Task :** My goal was to participate in organizing dedicated sprint iterations (*Sprint 1: Brainstorming*, *Sprint 2: Survey*, *Sprint 3: Planning & Analysis*, *Sprint 4: Design*, *Sprint 5: Frontend Development*, *Sprint 6: Backend Development*, *Sprint 7: Integration & Testing*, *Sprint 8: Deployment & Launch*, *Sprint 9: Post Launc & Growth*) with distinct daily execution targets.
@@ -245,7 +229,6 @@ Cape Peninsula University of Technology (2024–2026)
 ####  📓 Agile Logbook
 [![View Task Board](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
-----
 ######  💭 Agile Logbook Reflection
 ---
 

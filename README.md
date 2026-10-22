@@ -219,8 +219,7 @@ Cape Peninsula University of Technology (2024–2026)
 ####  📋 Product Backlog
 [![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
-<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/eae45535-f9aa-45fd-958d-770caab91f69" />
-<img width="350" height="813" alt="image" src="https://github.com/user-attachments/assets/df03cbde-5cc8-47a6-abad-4152ce2ca0d2" />
+<img width="350" height="613" alt="image" src="https://github.com/user-attachments/assets/df03cbde-5cc8-47a6-abad-4152ce2ca0d2" />
 
 
 ----

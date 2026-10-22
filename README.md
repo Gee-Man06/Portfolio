@@ -139,15 +139,15 @@ Cape Peninsula University of Technology (2024–2026)
 ####  📞 References
 
 ######  👤 Siyabonga Gxula  
-           🏢 Zwelakhe Senior Secondary School  
-           📧 gxusiyabonga@gmail.com  
-           📞 078 766 5384 
+- 🏢 Zwelakhe Senior Secondary School
+- 📧 gxusiyabonga@gmail.com  
+- 📞 078 766 5384 
 
 
 ######  👤 Lusanda Mbenguzana  
-           🏢 Zwelakhe Senior Secondary School  
-           📧 lusandambenguzana1@gmail.com  
-           📞 078 072 3715
+- 🏢 Zwelakhe Senior Secondary School  
+- 📧 lusandambenguzana1@gmail.com  
+- 📞 078 072 3715
  
 ######   💭CV Reflection
   - **Situation :** For Term 1 work readiness training, we were required to design a professional and web-accessible online CV using Markdown.

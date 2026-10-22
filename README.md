@@ -38,15 +38,16 @@ Final-year Diploma in Information and Communication Technology student specializ
 ---
 
 ####  🎓 Education
----
+----
 
 **National Senior Certificate**  
 Zwelakhe Senior Secondary School (2023)
 
 **Diploma in ICT**  
 Cape Peninsula University of Technology (2024–2026)
+---
 
---
+
 
 ####  🛠️ Technical Skills
 ---
@@ -55,6 +56,7 @@ Cape Peninsula University of Technology (2024–2026)
    - Java (Intermediate)  
    - Python (Intermediate)  
    - JavaScript (Intermediate)
+     
 ----
 
 ######  🌐 Web Technologies

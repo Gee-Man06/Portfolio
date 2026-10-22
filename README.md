@@ -45,6 +45,7 @@ Zwelakhe Senior Secondary School (2023)
 
 **Diploma in ICT**  
 Cape Peninsula University of Technology (2024–2026)
+
 ---
 
 

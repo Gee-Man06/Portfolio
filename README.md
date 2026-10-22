@@ -21,7 +21,7 @@ https://github.com/Gee-Man06
 ----
 
 ### 📄My CV
-####   Mangaliso Snothando
+####  Mangaliso Snothando
 
    - 📧 241177049@mycput.ac.za
    - 🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso)

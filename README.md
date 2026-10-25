@@ -239,12 +239,16 @@ Cape Peninsula University of Technology (2024–2026)
 ####  📓 Agile Logbook
 [![View Logbook](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://github.com/Gee-Man06/Portfolio/blob/main/Agile%20Logbook%204%20August%20-%207%20August%20(1).docx)
 
-![Agile Logbook Screenshot](<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/11c463e8-eac2-4809-9837-71afe98651d6" />
-)(<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/28ebc7a0-18d9-424b-8f97-d95cc89d67d6" />
-).(<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/0281d9b8-7de5-40d6-bda4-c8f481f462c5" />
-)
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/11c463e8-eac2-4809-9837-71afe98651d6" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/28ebc7a0-18d9-424b-8f97-d95cc89d67d6" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/0281d9b8-7de5-40d6-bda4-c8f481f462c5" />
+
 
 ######  💭 Agile Logbook Reflection
+- **Situation :** During the execution of our project sprint, the team needed a structured way to track daily deliverables, mitigate technical risks (such as platform deployment and frontend-backend integration), and manage team constraints.
+- **Task :** My objective was to maintain a rigorous Agile Logbook recording daily stand-up progress, completed milestones, technical impediments, and planned tasks from August 4 to August 7.
+- **Action :** I systematically documented daily updates—ranging from finalizing user stories and the business model to solving solution architecture and managing our Vercel deployment—while logging risks like code integration and workload distribution.
+- **Result :** Maintained a transparent, auditable trail of daily execution that helped the team track velocity, resolve deployment bottlenecks (such as the Vercel migration), and adapt quickly to frontend-backend integration risks.
 ---
 
 

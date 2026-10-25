@@ -239,7 +239,10 @@ Cape Peninsula University of Technology (2024–2026)
 ####  📓 Agile Logbook
 [![View Logbook](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://github.com/Gee-Man06/Portfolio/blob/main/Agile%20Logbook%204%20August%20-%207%20August%20(1).docx)
 
-![Agile Logbook Screenshot](images/agile-logbook.png)
+![Agile Logbook Screenshot](<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/11c463e8-eac2-4809-9837-71afe98651d6" />
+)(<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/28ebc7a0-18d9-424b-8f97-d95cc89d67d6" />
+).(<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/0281d9b8-7de5-40d6-bda4-c8f481f462c5" />
+)
 
 ######  💭 Agile Logbook Reflection
 ---

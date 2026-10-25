@@ -183,7 +183,16 @@ Cape Peninsula University of Technology (2024–2026)
 
 ####  📜 Agile Team Charter
 
+[![View Team Charter](https://img.shields.io/badge/Team-Charter-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+
+<img width="1443" height="712" alt="image" src="https://github.com/user-attachments/assets/7faf328f-b109-4278-8e4e-c0582a2aa10b" />
+
+
 ######   💭 Agile Team Charter Reflection
+- **Situation :** At the commencement of the PC Revival project, our team required a shared social contract and operational framework to guide our collaboration and minimize workflow friction.
+- **Task :** My objective was to co-create and document an Agile Team Charter outlining our collective purpose, team roles, communication protocols, and decision-making guidelines.
+- **Action :** I contributed to structuring our collaborative whiteboard, defining role assignments, establishing our Agile workflow rules, and setting clear project deliverables for the platform.
+- **Result :** Successfully established a comprehensive team charter that aligned all members on project goals, clarified individual responsibilities, and provided a strong foundation for our sprint execution.
 
 ---
 ####  📝 User Stories and Tasks

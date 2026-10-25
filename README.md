@@ -183,7 +183,7 @@ Cape Peninsula University of Technology (2024–2026)
 
 ####  📜 Agile Team Charter
 
-[![View Team Charter](https://img.shields.io/badge/Team-Charter-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+[![View Team Charter](https://img.shields.io/badge/Team-Charter-blue?style=for-the-badge)](https://github.com/Gee-Man06/Portfolio/blob/main/PC-Revival%20Team%20Charter.pdf)
 
 <img width="1443" height="712" alt="image" src="https://github.com/user-attachments/assets/7faf328f-b109-4278-8e4e-c0582a2aa10b" />
 

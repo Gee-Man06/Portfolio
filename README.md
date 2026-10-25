@@ -237,7 +237,9 @@ Cape Peninsula University of Technology (2024–2026)
   
 ---
 ####  📓 Agile Logbook
-[![View Task Board](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+[![View Logbook](https://img.shields.io/badge/Agile-Logbook-blue?style=for-the-badge)](https://github.com/Gee-Man06/Portfolio/blob/main/Agile%20Logbook%204%20August%20-%207%20August%20(1).docx)
+
+![Agile Logbook Screenshot](images/agile-logbook.png)
 
 ######  💭 Agile Logbook Reflection
 ---

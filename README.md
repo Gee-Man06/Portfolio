@@ -249,6 +249,7 @@ Cape Peninsula University of Technology (2024–2026)
 - **Task :** My objective was to maintain a rigorous Agile Logbook recording daily stand-up progress, completed milestones, technical impediments, and planned tasks from August 4 to August 7.
 - **Action :** I systematically documented daily updates—ranging from finalizing user stories and the business model to solving solution architecture and managing our Vercel deployment—while logging risks like code integration and workload distribution.
 - **Result :** Maintained a transparent, auditable trail of daily execution that helped the team track velocity, resolve deployment bottlenecks (such as the Vercel migration), and adapt quickly to frontend-backend integration risks.
+  
 ---
 
 
